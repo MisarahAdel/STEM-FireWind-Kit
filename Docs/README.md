@@ -27,7 +27,7 @@ This kit includes hands-on experiments with sensors and simulations such as:
   ├── Diagrams/ 
   │ ├── breadboard.png 
   │ └── schematic.png 
-  ├── docs/ &lt;-- Required for GitHub Pages 
+  ├── docs/  
   │ └── index.md 
   ├── README.md 
   ```</code> </pre>
