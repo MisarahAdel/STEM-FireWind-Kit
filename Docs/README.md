@@ -16,9 +16,18 @@ This kit includes hands-on experiments with sensors and simulations such as:
 
 ## 📁 Folder Structure
 
-<pre> <code>``` STEM-FireWind-Kit/
-  ├── Arduino/ │ └── Measure_the_Air.ino 
-  ├── Manual/ │ ├── Measure_the_Air_Manual.tex │ ├── Measure_the_Air_Manual.pdf 
-  ├── Diagrams/ │ ├── breadboard.png │ └── schematic.png 
-  ├── docs/ &lt;-- Required for GitHub Pages │ └── index.md 
-  ├── README.md ```</code> </pre>
+<pre> <code>
+  ``` 
+  STEM-FireWind-Kit/
+  ├── Arduino/ 
+  │ └── Measure_the_Air.ino 
+  ├── Manual/ 
+  │ ├── Measure_the_Air_Manual.tex 
+  │ ├── Measure_the_Air_Manual.pdf 
+  ├── Diagrams/ 
+  │ ├── breadboard.png 
+  │ └── schematic.png 
+  ├── docs/ &lt;-- Required for GitHub Pages 
+  │ └── index.md 
+  ├── README.md 
+  ```</code> </pre>
