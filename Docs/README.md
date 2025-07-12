@@ -17,7 +17,7 @@ This kit includes hands-on experiments with sensors and simulations such as:
 ## 📁 Folder Structure
 
 <pre> <code>
-  ``` 
+
   STEM-FireWind-Kit/
   ├── Arduino/ 
   │ └── Measure_the_Air.ino 
@@ -30,4 +30,4 @@ This kit includes hands-on experiments with sensors and simulations such as:
   ├── docs/  
   │ └── index.md 
   ├── README.md 
-  ```</code> </pre>
+  </code> </pre>
